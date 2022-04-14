@@ -1,1 +1,4 @@
-# CPE526_Assignmant3
+To run the project from the command line, go to the dist folder and
+type the following:
+
+java -jar "CPE526_Assignmant3.jar" 
